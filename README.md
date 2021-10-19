@@ -1,7 +1,7 @@
 # Css_grid
 Css grid explicación básica 
-Original 
+#Original 
 ![Screenshot](1.png)
-Responsive
+#Responsive
 ![Screenshot](2.png)
 gh-pages: https://yared17.github.io/Css_grid/ 
